@@ -1,2 +1,2 @@
 a = "HELLO"
-b = "WORLD"
+b = "world"
